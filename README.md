@@ -3,7 +3,7 @@ This is my implementation of Singly, Doubly and Skip Linked Lists
 
 ## Motivation :earth_africa:
 ---
-This was part of my coursework during 2nd year, the original task was implementing Single and Doubly Linked List and the additional challenge was coding Skip Lists.
+This was part of my coursework during 2nd year, the original task was implementing Singly and Doubly Linked List and the additional challenge was coding Skip Lists.
 
 ### Features
 - All three types of lists support addition and removal of items.
