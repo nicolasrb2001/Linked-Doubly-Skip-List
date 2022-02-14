@@ -1,5 +1,5 @@
 # Linked-Doubly-Skip-List
-This is my implementation of Single, Doubly and Skip Linked Lists
+This is my implementation of Singly, Doubly and Skip Linked Lists
 
 ## Motivation :earth_africa:
 ---
